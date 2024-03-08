@@ -11,7 +11,6 @@ LATENT-DIFFUSION
 └── scripts
     ├── latent_imagenet_diffusion.ipynb
     └── latent_imagenet_diffusion.py
-
 ```
 - github link: [CompVis/latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models (github.com)](https://github.com/CompVis/latent-diffusion)
 - 위 링크에서 먼저 git clone 받고, 필요한 가상환경 설치하기
